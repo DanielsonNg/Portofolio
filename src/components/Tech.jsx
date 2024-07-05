@@ -10,7 +10,7 @@ const Tech = () => {
           <BallCanvas icon={technology.icon} />
         </div>
       ))}
-      Tech</div>
+      </div>
   )
 }
 
